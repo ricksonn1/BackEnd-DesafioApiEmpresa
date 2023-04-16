@@ -51,6 +51,8 @@ Lembre-se de validar os dados recebidos nas requisições, bem como de tratar po
 * Metodo restaura um registro deletado
 * Verificações em nome e mail do Funcionario
 * Verificação ao deletar no banco
+* middlawares
+* Verificaçãoes de erros
 
 ## Pra rodar o Projeto
 
